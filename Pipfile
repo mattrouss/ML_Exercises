@@ -10,6 +10,7 @@ scikit-learn = "*"
 numpy = "*"
 pandas = "*"
 scikit-multilearn = "*"
+jupyter = "*"
 
 [requires]
 python_version = "3.7"
